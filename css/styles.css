@@ -1,0 +1,62 @@
+.logo{
+  max-height:70px;
+}
+.logo-text{
+  display:inline-block;
+  font-family: "Satisfy", cursive;
+  color: #FF827B;
+  font-size:36px;
+  margin-top: 20px;
+}
+.jumbotron{
+  background-image: url('../img/hero.jpg');
+  background-size: cover;
+  height:500px;
+  background-position: center;
+}
+.jumbotron h2{
+  font-family: Lato;
+  font-weight: 300;
+  color:white;
+}
+.thumbnail{
+  background-color: #edf1f4;
+  padding: 10px;
+}
+footer{
+  background-color: #333;
+}
+footer a{
+  color:#bfc0c1;
+}
+footer .container h4{
+  color:#505050;
+  text-align: center;
+  font-size: 12px;
+}
+.footer-logo{
+  max-height:70px;
+  margin-left:50px;
+}
+.margin-top{
+  margin-top: 20px;
+}
+.border-left{
+  border-left: solid #505050 1px;
+  padding-left: 20px;
+}
+.center{
+  margin-left: 35%;
+}
+.padding-bottom{
+  padding-bottom:40px;
+}
+.copyright{
+  padding-bottom:10px;
+}
+body{
+  background-color: white;
+}
+a{
+  font-weight: 550;
+}
