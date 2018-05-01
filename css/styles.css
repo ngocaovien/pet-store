@@ -60,3 +60,6 @@ body{
 a{
   font-weight: 550;
 }
+a:hover{
+  color: #FF827B;
+}
